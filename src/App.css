@@ -1,0 +1,29 @@
+#buttonAddNew{
+  background-color: #2e7923;
+  border-radius: 10px;
+}
+#inputs{
+  margin-left: 1rem;
+  background-color: #5d3e77;
+  border-radius: 5px;
+}
+#buttonAdd{
+  float: left;
+  background-color: #2e7923;
+  border-radius: 10px;
+}
+#buttonCancel{
+  float: right;
+  background-color: #792347;
+  border-radius: 10px;
+}
+#th2rem{
+  width: 2rem;
+}
+#th8rem{
+  width: 8rem;
+}
+#contenedor{
+  display: flex;
+  justify-content: center;
+}
